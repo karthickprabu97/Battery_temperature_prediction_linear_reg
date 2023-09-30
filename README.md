@@ -1,1 +1,1 @@
-# Battery_temperature_prediction_linear_reg
+##### The goal of this project was to predict the battery temperature using the given temperature sensor data.
